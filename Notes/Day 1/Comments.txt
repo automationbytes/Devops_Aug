@@ -1,5 +1,5 @@
 Comments
---------------
+----------
 
 - Comments in Python can be used to explain any program code. It can also be used to hide the code as well.
 
