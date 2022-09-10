@@ -1,0 +1,41 @@
++-------------------------+-----------------------------+
+
+|Key                      |           Values            |
+
++-------------------------+-----------------------------+
+
+|account                  |            BATS             |
+
+|clordid                  |    restingSellOrder_GVB     |
+
+|custorderhandlinginst    |              Y              |
+
+|executionid              |         S100000FE0          |
+
+|executiontype            |              4              |
+
+|lastshares               |              0              |
+
+|operatorid               |             CFE             |
+
+|orderid                  |        172H1JDVCPVW         |
+
+|orderquantity            |             10              |
+
+|price                    |            11.00            |
+
+|securitytype             |             FUT             |
+
+|sequencenumber           |            1822             |
+
+|side                     |              2              |
+
+|symbol                   |           000001            |
+
+|targetcomputerid         |            FOOA             |
+
+|targetsubid              |            0001             |
+
+|transacttime             | 2022-02-02T15:12:02.979000  |
+
++-------------------------+-----------------------------+

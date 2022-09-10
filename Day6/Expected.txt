@@ -1,0 +1,41 @@
++-------------------------+-----------------------------+
+
+|Key                      |           Values            |           
+
++-------------------------+-----------------------------+
+
+|account                  |            BATS             |
+
+|clordid                  |            None             |
+
+|custorderhandlinginst    |              Y              |
+
+|executionid              |         S100000FDR          |
+
+|executiontype            |              4              |
+
+|lastshares               |              0              |
+
+|operatorid               |             148             |
+
+|orderid                  |        172H1JDVCPVW         |
+
+|orderquantity            |             10              |
+
+|price                    |            11.00            |
+
+|securitytype             |             FUT             |
+
+|sequencenumber           |              0              |
+
+|side                     |              2              |
+
+|symbol                   |           000001            |
+
+|targetcomputerid         |            FOOA             |
+
+|targetsubid              |             ''              |
+
+|transacttime             |            None             |
+
++-------------------------+-----------------------------+
