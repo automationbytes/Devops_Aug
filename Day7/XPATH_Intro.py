@@ -31,8 +31,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
 
+
 driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
-driver.get("https://facebook.com")
+driver.get("https://udemy.com")
 driver.maximize_window()
 
 driver.find_element(By.XPATH,'//input[contains(@aria-label,"number")]').send_keys("username")

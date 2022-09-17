@@ -1,0 +1,693 @@
+1663384720314	geckodriver	INFO	Listening on 127.0.0.1:54456
+1663384723401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileO5JZJT"
+1663384723977	Marionette	INFO	Marionette enabled
+1663384723984	Marionette	INFO	Listening on port 54467
+WebDriver BiDi listening on ws://localhost:54457
+Read port: 54467
+1663384724346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileO5JZJT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54457/devtools/browser/3cada356-5bc9-43a0-89e7-fe885978ecf4
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yt/l/en_GB/jH2CtJGBFuS.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985955	Marionette	INFO	Stopped listening on port 54467
+!!! error running onStopped callback: TypeError: callback is not a function
+lidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yt/l/en_GB/jH2CtJGBFuS.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387986224	Marionette	INFO	Stopped listening on port 54538
+!!! error running onStopped callback: TypeError: callback is not a function
+facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387986073	Marionette	INFO	Stopped listening on port 54614
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+t: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileGsOjwB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54691/devtools/browser/c12f1198-2261-4e16-8f8f-67fc77c31fbc
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yt/l/en_GB/jH2CtJGBFuS.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 3115: TypeError: event.target.closest is not a function
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387986190	Marionette	INFO	Stopped listening on port 54702
+!!! error running onStopped callback: TypeError: callback is not a function
+facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.globalsqa.com/demo-site/select-dropdown-menu/, line 531: SyntaxError: expected expression, got '&'
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 249: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4205 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 5071 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 355))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 3115: TypeError: event.target.closest is not a function
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663387986492	Marionette	INFO	Stopped listening on port 54833
+[Parent 9800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+devtools/browser/f39b98cc-6229-4b2f-bd0a-4141893482c3
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.mobiscroll.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663385547991	Marionette	INFO	Stopped listening on port 55312
+[Parent 900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663385622242	geckodriver	INFO	Listening on 127.0.0.1:55435
+1663385625326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileSDZJi8"
+1663385625893	Marionette	INFO	Marionette enabled
+1663385625901	Marionette	INFO	Listening on port 55447
+WebDriver BiDi listening on ws://localhost:55436
+Read port: 55447
+1663385626152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileSDZJi8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55436/devtools/browser/2bb54f43-1972-4385-8264-df4324ccfe39
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1663385647858	Marionette	INFO	Stopped listening on port 55447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663385653827	geckodriver	INFO	Listening on 127.0.0.1:55512
+1663385656921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileZUF00L"
+1663385657424	Marionette	INFO	Marionette enabled
+1663385657433	Marionette	INFO	Listening on port 55524
+WebDriver BiDi listening on ws://localhost:55513
+Read port: 55524
+1663385657706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileZUF00L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55513/devtools/browser/686edd15-486e-4ca4-833c-c0f646d79ed9
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yt/l/en_GB/jH2CtJGBFuS.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985638	Marionette	INFO	Stopped listening on port 55524
+!!! error running onStopped callback: TypeError: callback is not a function
+ugging-port" "55784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileriPUTr"
+1663386070869	Marionette	INFO	Marionette enabled
+1663386070875	Marionette	INFO	Listening on port 55795
+WebDriver BiDi listening on ws://localhost:55784
+Read port: 55795
+1663386071330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663386102076	geckodriver	INFO	Listening on 127.0.0.1:55814
+1663386105187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilenhnk4B"
+1663386106361	Marionette	INFO	Marionette enabled
+1663386106370	Marionette	INFO	Listening on port 55826
+WebDriver BiDi listening on ws://localhost:55815
+Read port: 55826
+1663386106920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilenhnk4B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55815/devtools/browser/e3218baa-50b8-426b-8c8e-42054c19ebff
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985336	Marionette	INFO	Stopped listening on port 55826
+ole.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985201	Marionette	INFO	Stopped listening on port 55968
+[Parent 13616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663387986095	Marionette	INFO	Stopped listening on port 56090
+!!! error running onStopped callback: TypeError: callback is not a function
+ttings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985959	Marionette	INFO	Stopped listening on port 56258
+!!! error running onStopped callback: TypeError: callback is not a function
+1663386474759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilehxADB3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56389/devtools/browser/cde06075-b1ca-4980-b1fa-1dd6eee67119
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985679	Marionette	INFO	Stopped listening on port 56400
+!!! error running onStopped callback: TypeError: callback is not a function
+1663386550768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileh3kQOG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56514/devtools/browser/7e8b3cf1-5535-4746-bf2d-9bbd3b28b921
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663387985667	Marionette	INFO	Stopped listening on port 56524
+!!! error running onStopped callback: TypeError: callback is not a function
+Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985325	Marionette	INFO	Stopped listening on port 56761
+ole.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985978	Marionette	INFO	Stopped listening on port 56873
+!!! error running onStopped callback: TypeError: callback is not a function
+lidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985638	Marionette	INFO	Stopped listening on port 56986
+!!! error running onStopped callback: TypeError: callback is not a function
+lidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663387985369	Marionette	INFO	Stopped listening on port 57123
+[Parent 25636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663388010362	geckodriver	INFO	Listening on 127.0.0.1:57804
+1663388013432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilevGJtDz"
+1663388013948	Marionette	INFO	Marionette enabled
+1663388013956	Marionette	INFO	Listening on port 57815
+WebDriver BiDi listening on ws://localhost:57805
+Read port: 57815
+1663388014190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilevGJtDz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57805/devtools/browser/aa5659f7-eef3-41bf-9a1f-9326f39ed30d
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yt/l/en_GB/jH2CtJGBFuS.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58188
+1663388515213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilejXtWDC"
+1663388515749	Marionette	INFO	Marionette enabled
+1663388515757	Marionette	INFO	Listening on port 58200
+WebDriver BiDi listening on ws://localhost:58189
+Read port: 58200
+1663388515977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilejXtWDC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58189/devtools/browser/4d5c3da4-60dc-4b02-a1a4-27b8738103c7
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4616 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 1573 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 5709 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+ing local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 5329 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 5427 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 6148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 5560 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 2716 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+ (void 0)))
+DevTools listening on ws://localhost:58651/devtools/browser/6996d465-8f75-4eb6-b052-cc1be327f97b
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 1738 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 1516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4463 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 3515 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 7700 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 2169 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 1760 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 7154 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4914 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 1994 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+t_mozprofilewrJwo9"
+1663389401055	Marionette	INFO	Marionette enabled
+1663389401066	Marionette	INFO	Listening on port 59224
+WebDriver BiDi listening on ws://localhost:59213
+Read port: 59224
+1663389401472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilewrJwo9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59213/devtools/browser/f39b8b5e-efea-4da0-8ba5-c9b47d2613d9
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4232 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4881 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 5088 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 7808 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4822 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663389470004	geckodriver	INFO	Listening on 127.0.0.1:59382
+1663389473080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileZxrUl7"
+1663389473916	Marionette	INFO	Marionette enabled
+1663389473931	Marionette	INFO	Listening on port 59393
+WebDriver BiDi listening on ws://localhost:59383
+Read port: 59393
+1663389474322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileZxrUl7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59383/devtools/browser/2df77a1a-5ff7-44f9-97e1-51eb68cf11a2
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 3890 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 3596 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+1663389603054	geckodriver	INFO	Listening on 127.0.0.1:59603
+1663389606114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileALZ6nd"
+1663389606995	Marionette	INFO	Marionette enabled
+1663389607005	Marionette	INFO	Listening on port 59615
+WebDriver BiDi listening on ws://localhost:59604
+Read port: 59615
+1663389607458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileALZ6nd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59604/devtools/browser/0f5bc92d-4b51-433a-a2c3-a03d39ddb223
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript error: https://s0.2mdn.net/dfp/1802824/4638801769/1654523382194/index.html, line 273: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 2278 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4358 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 4357 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 3911 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 3585 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
