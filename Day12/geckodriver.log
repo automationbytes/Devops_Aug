@@ -1,0 +1,124 @@
+1664074010128	geckodriver	INFO	Listening on 127.0.0.1:50117
+1664074013188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileIZtmeY"
+1664074014287	Marionette	INFO	Marionette enabled
+1664074014297	Marionette	INFO	Listening on port 50127
+Read port: 50127
+WebDriver BiDi listening on ws://127.0.0.1:50118
+1664074014582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileIZtmeY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50118/devtools/browser/af9da5a5-c581-4279-a49d-175b36eca0cf
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 529 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 2948 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 5271 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664074424397	geckodriver	INFO	Listening on 127.0.0.1:55622
+1664074427450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileTvreO0"
+1664074428229	Marionette	INFO	Marionette enabled
+1664074428240	Marionette	INFO	Listening on port 55633
+Read port: 55633
+WebDriver BiDi listening on ws://127.0.0.1:55623
+1664074428663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileTvreO0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55623/devtools/browser/319b4ab3-35a1-402b-af09-5d81c24b10fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 5816 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 2208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 5671 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 3822 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 2163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 3693 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 4046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 7267 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 254 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 3831 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 4896 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 4949 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 2593 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 6457 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+tt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 1777 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 1641 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 7565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileJ7oxk3"
+1664075031945	Marionette	INFO	Marionette enabled
+1664075031958	Marionette	INFO	Listening on port 54040
+Read port: 54040
+WebDriver BiDi listening on ws://127.0.0.1:54029
+1664075032400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileJ7oxk3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54029/devtools/browser/85b2809a-3cb9-4109-a79d-eea2b6c3b091
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 2452 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 1468 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 3928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664075110886	geckodriver	INFO	Listening on 127.0.0.1:60177
+1664075113933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilesDYoRk"
+1664075114791	Marionette	INFO	Marionette enabled
+1664075114799	Marionette	INFO	Listening on port 60188
+Read port: 60188
+WebDriver BiDi listening on ws://127.0.0.1:60178
+1664075115173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilesDYoRk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60178/devtools/browser/e97f0898-8937-4caf-b35d-acc0b7b05096
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 3321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664075196083	geckodriver	INFO	Listening on 127.0.0.1:54892
+1664075199147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileb06zrd"
+1664075199740	Marionette	INFO	Marionette enabled
+1664075199746	Marionette	INFO	Listening on port 54903
+Read port: 54903
+WebDriver BiDi listening on ws://127.0.0.1:54893
+1664075199971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileb06zrd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54893/devtools/browser/bd95d939-e229-4055-ad4e-a244349fa799
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 3638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 4193 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 6481 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 3876 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664081774137	Marionette	INFO	Stopped listening on port 54903
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16428, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+[Parent 16428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+4497
+WebDriver BiDi listening on ws://127.0.0.1:54486
+1664075231039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilee2LS4G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54486/devtools/browser/03aa874c-aa6f-40b9-9a00-260808da5b0b
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 1493 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.irctc.co.in."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f36U5LLOSFCl_RQcRb4gz5dtt8ZR3FgOTI7LNXASQxk.js line 2 > eval line 3947 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664081885100	Marionette	INFO	Stopped listening on port 54497
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+g on port 62092
+Read port: 62092
+WebDriver BiDi listening on ws://127.0.0.1:62082
+1664077111326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilelK3S4m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62082/devtools/browser/d1cea385-9a89-47b5-8c68-b78ea5292450
+1664077115757	Marionette	INFO	Stopped listening on port 62092
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
