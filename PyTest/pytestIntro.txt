@@ -1,0 +1,51 @@
+filesname
+test_*.py
+_test.py
+
+function
+test*
+
+------------------------------
+to execute
+
+pytest
+
+to get the file names
+pytest -v
+
+to print
+pytest -s
+pytest --capture=no
+
+Assert
+------
+
+assert fi == se
+assert fi != se
+assert True
+assert False
+
+In order to run specific file
+-----------------------------
+pytest filename.py
+
+to run specific method
+---------------------
+pytest -k methodname
+
+markers
+
+fixture -@pytest.fixture
+confTest
+
+------------------------
+skip
+skipif
+xfail
+
+--------------------
+parallel
+---
+pip install pytest-xdist
+
+pytest -n 3
